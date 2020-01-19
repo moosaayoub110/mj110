@@ -1,0 +1,35 @@
+OX_3088693296({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://ox-delivery-prod-1-asia-southeast1.openx.net/{medium}/1.0/{rtype}?ph=b0627bd3-23b6-4e34-beba-43213fdf18e6&ts={txn_state}",
+    "pixels":"https://jp-u.openx.net/w/1.0/pd?plm=10&ph=b0627bd3-23b6-4e34-beba-43213fdf18e6&gdpr=0",
+    "oxt": 93.588,
+    "adunits" : [
+      {
+        "auid":"540797235",
+        "idx":"0",
+        "chain_revenue":"",
+        "chain":[
+          {
+            "is_fallback":1,
+            "ad_id":"0",
+            "adv_acct_id":"",
+            "is_ng":1,
+            "adv_id":":",
+            "brand_id":"",
+            "cpipc":0,
+            "auct_win_is_deal":0,
+            "pub_rev":"",
+            "width":"300",
+            "height":"600",
+            "html":"<script src=\"https://www.googletagservices.com/tag/js/gpt.js\">\n  googletag.pubads().definePassback(\"/4403/th/dogtime/redirect\", [300, 600])\n  .setTargeting(\"adid\", \"5111964161\").display();\n</script>",
+            "target":"_blank",
+            "ts":"2DAABBgABAAECAAIBAAsAAgAAAGMcGApPZUpoUTloTWZrHBa-jqqohozJxhIWs6rk5P7wpvv9AQAcFs6pqoaKvNeKOxb_9KC2gMHxhuQBABb47M3hCxUCACwcFQIAABwm5qTfgwQVBBUEJtyk34MEFt6OyoMEAAAA",
+            "type":"html",
+            "ad_url":"<script src=\"https://www.googletagservices.com/tag/js/gpt.js\">\n  googletag.pubads().definePassback(\"/4403/th/dogtime/redirect\", [300, 600])\n  .setTargeting(\"adid\", \"5111964161\").display();\n</script>"
+          }
+        ]
+      }
+    ]
+  }
+});
